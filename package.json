@@ -1,0 +1,18 @@
+{
+  "name": "restful-booker-api-testing",
+  "version": "1.0.0",
+  "description": "API Testing Project using Postman & Newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run collection/Restful_Booker_collection.json -e environment/Restful_Booker_environment.json",
+    "report": "newman run collection/Restful_Booker_collection.json -e environment/Restful_Booker_environment.json -r cli,html --reporter-html-export test-results/report.html"
+  },
+  "keywords": ["api-testing", "postman", "newman"],
+  "author": "Bappy Masud",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "newman": "^4.6.1",
+    "newman-reporter-html": "^1.0.5"
+  }
+}
