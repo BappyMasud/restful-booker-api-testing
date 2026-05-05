@@ -1,12 +1,12 @@
-# 🚀 Restful Booker API Testing Project
+# Restful Booker API Testing Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates API testing of the Restful Booker application using Postman and Newman. It includes automated tests for CRUD operations and authentication.
 
 ---
 
-## 🧪 Test Scenarios Covered
+## Test Scenarios Covered
 
 * 🔹 Get Booking IDs
 * 🔹 Create Booking
@@ -18,7 +18,7 @@ This project demonstrates API testing of the Restful Booker application using Po
 
 ---
 
-## ✅ Validations Implemented
+## Validations Implemented
 
 * ✔ Status Code Validation
 * ✔ Response Body Validation
@@ -37,7 +37,7 @@ This project demonstrates API testing of the Restful Booker application using Po
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 restful-booker-api-testing/
@@ -56,7 +56,7 @@ restful-booker-api-testing/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1️⃣ Install Dependencies
 
@@ -80,7 +80,7 @@ npm test
 npm run report
 ```
 
-👉 Report will be generated in:
+Report will be generated in:
 
 ```
 test-results/report.html
@@ -88,7 +88,7 @@ test-results/report.html
 
 ---
 
-## 📊 Features
+## Features
 
 * Automated API Testing
 * Dynamic Data Handling (bookingId, token)
@@ -97,7 +97,7 @@ test-results/report.html
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Bappy Masud**
 
