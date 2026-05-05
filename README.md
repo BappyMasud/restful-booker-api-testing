@@ -20,12 +20,12 @@ This project demonstrates API testing of the Restful Booker application using Po
 
 ## Validations Implemented
 
-✔ Status Code Validation
-✔ Response Body Validation
-✔ Data Type Validation
-✔ Response Time Validation
-✔ JSON Structure Validation
-✔ Environment Variable Handling
+* Status Code Validation
+* Response Body Validation
+* Data Type Validation
+* Response Time Validation
+* JSON Structure Validation
+* Environment Variable Handling
 
 ---
 
