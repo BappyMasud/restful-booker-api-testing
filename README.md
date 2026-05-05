@@ -8,28 +8,28 @@ This project demonstrates API testing of the Restful Booker application using Po
 
 ## Test Scenarios Covered
 
-* 🔹 Get Booking IDs
-* 🔹 Create Booking
-* 🔹 Get Booking Details
-* 🔹 Generate Auth Token
-* 🔹 Update Booking (PUT)
-* 🔹 Partial Update (PATCH)
-* 🔹 Delete Booking
+* Get Booking IDs
+* Create Booking
+* Get Booking Details
+* Generate Auth Token
+* Update Booking (PUT)
+* Partial Update (PATCH)
+* Delete Booking
 
 ---
 
 ## Validations Implemented
 
-* ✔ Status Code Validation
-* ✔ Response Body Validation
-* ✔ Data Type Validation
-* ✔ Response Time Validation
-* ✔ JSON Structure Validation
-* ✔ Environment Variable Handling
+✔ Status Code Validation
+✔ Response Body Validation
+✔ Data Type Validation
+✔ Response Time Validation
+✔ JSON Structure Validation
+✔ Environment Variable Handling
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Postman
 * Newman
@@ -103,6 +103,6 @@ test-results/report.html
 
 ---
 
-## ⭐ Notes
+## Notes
 
 This project is created for learning and demonstrating API testing skills for Software QA roles.
